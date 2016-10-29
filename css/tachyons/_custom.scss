@@ -1,0 +1,206 @@
+.h-30 {
+  height: 30%
+}
+
+.clipper {
+  -webkit-transform: skew(0,-1deg);
+  -moz-transform: skew(0,-1deg);
+  -ms-transform: skew(0,-1deg);
+  transform: skew(0,-1deg);
+  pointer-events: none;
+  margin-top: 30px;
+}
+
+//
+
+// Contem Cerva colors
+
+$cerva-dark-grey: #333333 !default;
+$cerva-grey: #8d8d8d !default;
+$cerva-light-grey: #eaeaea !default;
+$cerva-white: #ffffff !default;
+$cerva-light-heat: #eed1a9 !default;
+$cerva-heat: #efac4f !default;
+$cerva-dark-heat: #d4640a !default;
+$cerva-red: #b93d23 !default;
+
+//
+
+.cerva-dark-grey {
+ color: $cerva-dark-grey
+}
+
+.hover-cerva-dark-grey:hover {
+ color: $cerva-dark-grey
+}
+
+.bg-cerva-dark-grey {
+ background-color: $cerva-dark-grey
+}
+
+.hover-bg-cerva-dark-grey:hover {
+ background-color: $cerva-dark-grey
+}
+
+.b--cerva-dark-grey {
+ border-color: $cerva-dark-grey
+}
+
+//
+
+.cerva-grey {
+ color: $cerva-grey
+}
+
+.hover-cerva-grey:hover {
+ color: $cerva-grey
+}
+
+.bg-cerva-grey {
+ background-color: $cerva-grey
+}
+
+.hover-bg-cerva-grey:hover {
+ background-color: $cerva-grey
+}
+
+.b--cerva-grey {
+ border-color: $cerva-grey
+}
+
+//
+
+
+.cerva-light-grey {
+ color: $cerva-light-grey
+}
+
+.hover-cerva-light-grey:hover {
+ color: $cerva-light-grey
+}
+
+.bg-cerva-light-grey {
+ background-color: $cerva-light-grey
+}
+
+.hover-bg-cerva-light-grey:hover {
+ background-color: $cerva-light-grey
+}
+
+.b--cerva-light-grey {
+ border-color: $cerva-light-grey
+}
+
+//
+
+
+.cerva-white {
+ color: $cerva-white
+}
+
+.hover-cerva-white:hover {
+ color: $cerva-white
+}
+
+.bg-cerva-white {
+ background-color: $cerva-white
+}
+
+.hover-bg-cerva-white:hover {
+ background-color: $cerva-white
+}
+
+.b--cerva-white {
+ border-color: $cerva-white
+}
+
+//
+
+
+.cerva-light-heat {
+ color: $cerva-light-heat
+}
+
+.hover-cerva-light-heat:hover {
+ color: $cerva-light-heat
+}
+
+.bg-cerva-light-heat {
+ background-color: $cerva-light-heat
+}
+
+.hover-bg-cerva-light-heat:hover {
+ background-color: $cerva-light-heat
+}
+
+.b--cerva-light-heat {
+ border-color: $cerva-light-heat
+}
+
+//
+
+
+.cerva-heat {
+ color: $cerva-heat
+}
+
+.hover-cerva-heat:hover {
+ color: $cerva-heat
+}
+
+.bg-cerva-heat {
+ background-color: $cerva-heat
+}
+
+.hover-bg-cerva-heat:hover {
+ background-color: $cerva-heat
+}
+
+.b--cerva-heat {
+ border-color: $cerva-heat
+}
+
+//
+
+.cerva-dark-heat {
+ color: $cerva-dark-heat
+}
+
+.hover-cerva-dark-heat:hover {
+ color: $cerva-dark-heat
+}
+
+.bg-cerva-dark-heat {
+ background-color: $cerva-dark-heat
+}
+
+.hover-bg-cerva-dark-heat:hover {
+ background-color: $cerva-dark-heat
+}
+
+.b--cerva-dark-heat {
+ border-color: $cerva-dark-heat
+}
+
+//
+
+
+.cerva-red {
+ color: $cerva-red
+}
+
+.hover-cerva-red:hover {
+ color: $cerva-red
+}
+
+.bg-cerva-red {
+ background-color: $cerva-red
+}
+
+.hover-bg-cerva-red:hover {
+ background-color: $cerva-red
+}
+
+.b--cerva-red {
+ border-color: $cerva-red
+}
