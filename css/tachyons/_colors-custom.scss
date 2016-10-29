@@ -1,34 +1,3 @@
-.cerva-skew {
-  -webkit-transform: skew(0,-3deg);
-  -moz-transform: skew(0,-3deg);
-  -ms-transform: skew(0,-3deg);
-  transform: skew(0,-3deg);
-
-  @media #{$breakpoint-large} {
-    -webkit-transform: skew(0,-1deg);
-    -moz-transform: skew(0,-1deg);
-    -ms-transform: skew(0,-1deg);
-    transform: skew(0,-1deg);
-  }
-
-  @media #{$breakpoint-medium} {
-    -webkit-transform: skew(0,-1deg);
-    -moz-transform: skew(0,-1deg);
-    -ms-transform: skew(0,-1deg);
-    transform: skew(0,-1deg);
-
-  }
-
-  @media #{$breakpoint-not-small} {
-    -webkit-transform: skew(0,-1deg);
-    -moz-transform: skew(0,-1deg);
-    -ms-transform: skew(0,-1deg);
-    transform: skew(0,-1deg);
-  }
-}
-
-//
-
 // Contem Cerva colors
 
 $cerva-dark-grey: #333333 !default;

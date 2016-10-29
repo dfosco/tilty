@@ -7004,30 +7004,6 @@ textarea {
 .repeat-round {
   background-repeat: round; }
 
-.cerva-skew {
-  -webkit-transform: skew(0, -3deg);
-  -moz-transform: skew(0, -3deg);
-  -ms-transform: skew(0, -3deg);
-  transform: skew(0, -3deg); }
-  @media screen and (min-width: 60em) {
-    .cerva-skew {
-      -webkit-transform: skew(0, -1deg);
-      -moz-transform: skew(0, -1deg);
-      -ms-transform: skew(0, -1deg);
-      transform: skew(0, -1deg); } }
-  @media screen and (min-width: 30em) and (max-width: 60em) {
-    .cerva-skew {
-      -webkit-transform: skew(0, -1deg);
-      -moz-transform: skew(0, -1deg);
-      -ms-transform: skew(0, -1deg);
-      transform: skew(0, -1deg); } }
-  @media screen and (min-width: 30em) {
-    .cerva-skew {
-      -webkit-transform: skew(0, -1deg);
-      -moz-transform: skew(0, -1deg);
-      -ms-transform: skew(0, -1deg);
-      transform: skew(0, -1deg); } }
-
 .cerva-dark-grey {
   color: #333333; }
 
@@ -7208,6 +7184,150 @@ textarea {
 .text-shadow-5-l {
   text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); }
 
+.skew-1 {
+  -webkit-transform: skew(0, 1deg);
+  -moz-transform: skew(0, 1deg);
+  -ms-transform: skew(0, 1deg);
+  transform: skew(0, 1deg); }
+
+.skew-2 {
+  -webkit-transform: skew(0, 2deg);
+  -moz-transform: skew(0, 2deg);
+  -ms-transform: skew(0, 2deg);
+  transform: skew(0, 2deg); }
+
+.skew-3 {
+  -webkit-transform: skew(0, 3deg);
+  -moz-transform: skew(0, 3deg);
+  -ms-transform: skew(0, 3deg);
+  transform: skew(0, 3deg); }
+
+@media screen and (min-width: 60em) {
+  .skew-1-l {
+    -webkit-transform: skew(0, 1deg);
+    -moz-transform: skew(0, 1deg);
+    -ms-transform: skew(0, 1deg);
+    transform: skew(0, 1deg); }
+
+  .skew-2-l {
+    -webkit-transform: skew(0, 2deg);
+    -moz-transform: skew(0, 2deg);
+    -ms-transform: skew(0, 2deg);
+    transform: skew(0, 2deg); }
+
+  .skew-3-l {
+    -webkit-transform: skew(0, 3deg);
+    -moz-transform: skew(0, 3deg);
+    -ms-transform: skew(0, 3deg);
+    transform: skew(0, 3deg); } }
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .skew-1-m {
+    -webkit-transform: skew(0, 1deg);
+    -moz-transform: skew(0, 1deg);
+    -ms-transform: skew(0, 1deg);
+    transform: skew(0, 1deg); }
+
+  .skew-2-m {
+    -webkit-transform: skew(0, 2deg);
+    -moz-transform: skew(0, 2deg);
+    -ms-transform: skew(0, 2deg);
+    transform: skew(0, 2deg); }
+
+  .skew-3-m {
+    -webkit-transform: skew(0, 3deg);
+    -moz-transform: skew(0, 3deg);
+    -ms-transform: skew(0, 3deg);
+    transform: skew(0, 3deg); } }
+@media screen and (min-width: 30em) {
+  .skew-1-ns {
+    -webkit-transform: skew(0, 1deg);
+    -moz-transform: skew(0, 1deg);
+    -ms-transform: skew(0, 1deg);
+    transform: skew(0, 1deg); }
+
+  .skew-2-ns {
+    -webkit-transform: skew(0, 2deg);
+    -moz-transform: skew(0, 2deg);
+    -ms-transform: skew(0, 2deg);
+    transform: skew(0, 2deg); }
+
+  .skew-3-ns {
+    -webkit-transform: skew(0, 3deg);
+    -moz-transform: skew(0, 3deg);
+    -ms-transform: skew(0, 3deg);
+    transform: skew(0, 3deg); } }
+.skew-neg1 {
+  -webkit-transform: skew(0, -1deg);
+  -moz-transform: skew(0, -1deg);
+  -ms-transform: skew(0, -1deg);
+  transform: skew(0, -1deg); }
+
+.skew-neg2 {
+  -webkit-transform: skew(0, -2deg);
+  -moz-transform: skew(0, -2deg);
+  -ms-transform: skew(0, -2deg);
+  transform: skew(0, -2deg); }
+
+.skew-neg3 {
+  -webkit-transform: skew(0, -3deg);
+  -moz-transform: skew(0, -3deg);
+  -ms-transform: skew(0, -3deg);
+  transform: skew(0, -3deg); }
+
+@media screen and (min-width: 60em) {
+  .skew-neg1-l {
+    -webkit-transform: skew(0, -1deg);
+    -moz-transform: skew(0, -1deg);
+    -ms-transform: skew(0, -1deg);
+    transform: skew(0, -1deg); }
+
+  .skew-neg2-l {
+    -webkit-transform: skew(0, -2deg);
+    -moz-transform: skew(0, -2deg);
+    -ms-transform: skew(0, -2deg);
+    transform: skew(0, -2deg); }
+
+  .skew-neg3-l {
+    -webkit-transform: skew(0, -3deg);
+    -moz-transform: skew(0, -3deg);
+    -ms-transform: skew(0, -3deg);
+    transform: skew(0, -3deg); } }
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .skew-neg1-m {
+    -webkit-transform: skew(0, -1deg);
+    -moz-transform: skew(0, -1deg);
+    -ms-transform: skew(0, -1deg);
+    transform: skew(0, -1deg); }
+
+  .skew-neg2-m {
+    -webkit-transform: skew(0, -2deg);
+    -moz-transform: skew(0, -2deg);
+    -ms-transform: skew(0, -2deg);
+    transform: skew(0, -2deg); }
+
+  .skew-neg3-m {
+    -webkit-transform: skew(0, -3deg);
+    -moz-transform: skew(0, -3deg);
+    -ms-transform: skew(0, -3deg);
+    transform: skew(0, -3deg); } }
+@media screen and (min-width: 30em) {
+  .skew-neg1-ns {
+    -webkit-transform: skew(0, -1deg);
+    -moz-transform: skew(0, -1deg);
+    -ms-transform: skew(0, -1deg);
+    transform: skew(0, -1deg); }
+
+  .skew-neg2-ns {
+    -webkit-transform: skew(0, -2deg);
+    -moz-transform: skew(0, -2deg);
+    -ms-transform: skew(0, -2deg);
+    transform: skew(0, -2deg); }
+
+  .skew-neg3-ns {
+    -webkit-transform: skew(0, -3deg);
+    -moz-transform: skew(0, -3deg);
+    -ms-transform: skew(0, -3deg);
+    transform: skew(0, -3deg); } }
 /* Variables */
 /*
    SPACING
