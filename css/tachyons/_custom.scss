@@ -1,13 +1,9 @@
-.h-30 {
-  height: 30%
-}
-
 .cerva-skew {
   -webkit-transform: skew(0,-3deg);
   -moz-transform: skew(0,-3deg);
   -ms-transform: skew(0,-3deg);
   transform: skew(0,-3deg);
-    
+
   @media #{$breakpoint-large} {
     -webkit-transform: skew(0,-1deg);
     -moz-transform: skew(0,-1deg);

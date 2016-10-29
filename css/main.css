@@ -7004,9 +7004,6 @@ textarea {
 .repeat-round {
   background-repeat: round; }
 
-.h-30 {
-  height: 30%; }
-
 .cerva-skew {
   -webkit-transform: skew(0, -3deg);
   -moz-transform: skew(0, -3deg);
